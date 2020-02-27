@@ -1,0 +1,11 @@
+api: https://api.themoviedb.org/3/movie/550?api_key=642cd3357bcf98c5781401017fdac7d1
+images base url: http://image.tmdb.org/t/p/w500/nBNZadXqJSdt05SHLqgT0HuC5Gm.jpg
+all info: https://api.themoviedb.org/3/movie/157336?api_key=642cd3357bcf98c5781401017fdac7d1&append_to_response=videos,images
+&append_to_response=credits
+
+
+
+SCSS:
+Margin: Effects Outside 
+Padding: Effects Inside
+
